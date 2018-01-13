@@ -1,0 +1,3 @@
+interface PObject {
+  void draw();
+}
